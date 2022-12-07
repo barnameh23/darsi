@@ -1,0 +1,61 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E111" />
+          <option value="E302" />
+          <option value="E117" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N801" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="ValueError" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="R.Database1a.text" />
+          <option value="R.Database1b.text" />
+          <option value="R.Database1b.tuple_of_values" />
+          <option value="R.DatabaseB.tuple_of_values" />
+          <option value="R.DatabaseBA.tuple_of_values" />
+          <option value="R.DatabaseBA1.tuple_of_values" />
+          <option value="R.DatabaseBA1.text" />
+          <option value="R.DatabaseBA1.pInsurance" />
+          <option value="R.DatabaseBA1.ID" />
+          <option value="R.DatabaseB1.tuple_of_values" />
+          <option value="R.Database1.of" />
+          <option value="R.bankaccount3a.account_one" />
+          <option value="R.bankaccount3b.Bank_account.withra" />
+          <option value="R.bankaccount3b.account_one" />
+          <option value="R.bankaccount3b.Bank_account.withdraw" />
+          <option value="Bank_account" />
+          <option value="R.bankaccount3b.Bank_account.transfer_from" />
+          <option value="R.Bank_account.account_one" />
+          <option value="R.Bank_account.Bank_account.transfer_from" />
+          <option value="R.Bank_account.Bank_account.deposit" />
+          <option value="R.Bank_account.Bank_account.withdraw" />
+          <option value="R.Bank_account.self" />
+          <option value="R.B_account.account_one" />
+          <option value="R.Bank_account1.account_one" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
